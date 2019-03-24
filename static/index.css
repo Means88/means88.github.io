@@ -1,25 +1,25 @@
 @font-face {
     font-family: 'Karla';
-    src: url('https://media.means88.com/lib/karla/Karla-Regular.ttf');
+    src: url('./font/karla-regular.ttf');
 }
 
 @font-face {
     font-family: 'Karla';
     font-weight: bold;
-    src: url('https://media.means88.com/lib/karla/Karla-Bold.ttf');
+    src: url('./font/karla-bold.ttf');
 }
 
 @font-face {
     font-family: 'Karla';
     font-style: italic;
-    src: url('https://media.means88.com/lib/karla/Karla-Italic.ttf');
+    src: url('./font/karla-italic.ttf');
 }
 
 @font-face {
     font-family: 'Karla';
     font-style: italic;
     font-weight: bold;
-    src: url('https://media.means88.com/lib/karla/Karla-BoldItalic.ttf');
+    src: url('./font/karla-bolditalic.ttf');
 }
 
 html, body {
